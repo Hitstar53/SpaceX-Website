@@ -556,12 +556,12 @@ footer ul li a:hover {
 
 @media (max-width: 600px) {
     .section-content {
-        bottom: 20px;
+        bottom: 50px;
         left: 30px;
-        width: 80%;
+        width: 85%;
     }
     .section-content h1 {
-        font-size: 40px;
+        font-size: 34px;
     }
     .section-content-center h1 {
         font-size: 45px;
