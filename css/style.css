@@ -344,6 +344,24 @@ section {
     transform: translateY(0);
 }
 
+/* starship btn styling */
+
+.btn-starship {
+    border: 2px solid #000;
+}
+
+.btn-starship span {
+    color: #000;
+}
+
+.btn-starship .hover {
+    background: #000;
+}
+
+.btn-starship:hover span {
+    color: #fff;
+}
+
 /* scroll arrow animation */
 .scroll-arrow {
     position: absolute;
