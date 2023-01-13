@@ -138,18 +138,30 @@ section {
     margin-left: 90px;
 }
 
-.logo img {
+/* .logo img {
+    display: block;
+    width: 100%;
+    height: auto;
+} */
+
+.logo a svg {
     display: block;
     width: 100%;
     height: auto;
 }
 
+.fill-white {
+    fill: #fff;
+}
+
 .desktop-main-menu {
-    margin-left: -270px;
+    margin-right: auto;
 }
 
 .desktop-main-menu ul {
     display: flex;
+    flex-wrap: wrap;
+    width: 100%;
 }
 
 .desktop-main-menu ul li {
