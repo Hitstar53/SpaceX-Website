@@ -558,6 +558,7 @@ footer ul li a:hover {
     .section-content {
         bottom: 20px;
         left: 30px;
+        width: 80%;
     }
     .section-content h1 {
         font-size: 40px;
